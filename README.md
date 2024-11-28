@@ -1,6 +1,6 @@
 # Telegram to Markdown Bot
 
-This bot saves incoming Telegram messages as markdown files in a specified directory.
+This bot saves incoming Telegram messages as markdown files in a specified directory. I use it to save messages from my Telegram group chat to a local directory. That local directory is part of my obsidian vault and I can use it to create a markdown file for messages daily. So basically it is used like a journal. If someone uses it, any kind of feedback is welcome.
 
 ## Setup Instructions
 
